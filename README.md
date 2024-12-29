@@ -63,17 +63,10 @@ The analysis provides insights into:
 ---
 
 ## Contributions
-This project was undertaken by Ashika Jain during her tenure at CODTECH IT SOLUTIONS. The EDA performed sets the stage for further predictive modeling or deeper statistical analysis.
+This project was undertaken by Ashika Jain during her term at CODTECH IT SOLUTIONS. The EDA performed sets the stage for further predictive modeling or deeper statistical analysis.
 
 ---
 
-## License
-This project is licensed under the [insert license, e.g., MIT License].
-
-For further inquiries or contributions, please contact:
-- **Name**: Ashika Jain
-- **Email**: ashika.jain@somaiya.edu
 
 ---
 
-# CodTech-Task-1
