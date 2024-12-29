@@ -69,18 +69,9 @@ The analysis provides insights into:
 ---
 
 ## Contributions
-This project was undertaken by Ashika Jain during her tenure at CODTECH IT SOLUTIONS. The EDA performed on the Iris dataset serves as a foundation for further classification or clustering tasks.
+This project was undertaken by Ashika Jain during her term at CODTECH IT SOLUTIONS. The EDA performed on the Iris dataset serves as a foundation for further classification or clustering tasks.
 
 ---
 
 
-
----
-
-
-
----
-
-
----
 
